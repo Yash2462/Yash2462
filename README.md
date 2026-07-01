@@ -21,28 +21,22 @@ I'm a **Fullstack Java Developer**, mainly focused on backend development with S
 
 ---
 
-## 📊 GitHub Stats & Performance
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yash2462&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yash2462&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yash2462&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash2462&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash2462&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yash2462&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yash2462&theme=tokyonight&column=6&row=1&no-frame=true" alt="GitHub Trophies"/>
+  <img src="https://streak-stats.demolab.com?user=Yash2462&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
