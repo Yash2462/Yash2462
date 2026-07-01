@@ -21,15 +21,14 @@ I'm a **Fullstack Java Developer**, mainly focused on backend development with S
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Quick Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yash2462&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yash2462&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
+| Metric | Value |
+|--------|-------|
+| 💻 Languages | Java, Python, JavaScript |
+| 🏢 Focus | Backend Development & Microservices |
+| 🎯 Speciality | Spring Boot, System Design |
+| 📚 Learning | Kubernetes, AWS, Distributed Systems |
 
 ---
 
