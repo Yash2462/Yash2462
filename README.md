@@ -21,14 +21,31 @@ I'm a **Fullstack Java Developer**, mainly focused on backend development with S
 
 ---
 
-## 🏆 GitHub Performance
+## 📊 GitHub Stats & Performance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yash2462&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Yash2462&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150"/>
 </p>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yash2462&theme=tokyonight" alt="Top Languages" height="120"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yash2462&theme=tokyonight" alt="Most Used Language" height="120"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yash2462&theme=tokyonight" alt="Profile Details" width="100%"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yash2462&theme=tokyonight&column=4&row=2" alt="GitHub Trophies" width="100%"/>
 </p>
 
 ---
@@ -38,6 +55,15 @@ I'm a **Fullstack Java Developer**, mainly focused on backend development with S
 - 📝 **Blog App** – A platform to share and manage blog posts.
 - 📋 **Project Management System** – Backend for managing projects and tasks.
 - 🪐 **Virtual Space Project** – Currently working on a virtual collaboration tool.
+
+---
+
+## 🎓 Currently Learning
+
+- 🔄 Kubernetes & Container Orchestration
+- 🏗️ Microservices Architecture & Patterns
+- ☁️ Cloud-native Development (AWS/GCP)
+- 📡 Advanced Distributed Systems
 
 ---
 
