@@ -24,20 +24,17 @@ I'm a **Fullstack Java Developer**, mainly focused on backend development with S
 ## 📊 GitHub Stats & Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yash2462&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yash2462&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yash2462&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Yash2462&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash2462&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yash2462&theme=tokyonight" alt="Top Languages" height="120"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yash2462&theme=tokyonight" alt="Most Used Language" height="120"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yash2462&theme=tokyonight" alt="Profile Details" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash2462&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%"/>
 </p>
 
 ---
@@ -45,7 +42,7 @@ I'm a **Fullstack Java Developer**, mainly focused on backend development with S
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yash2462&theme=tokyonight&column=4&row=2" alt="GitHub Trophies" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Yash2462&theme=tokyonight&column=6&row=1&no-frame=true" alt="GitHub Trophies"/>
 </p>
 
 ---
