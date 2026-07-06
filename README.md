@@ -32,10 +32,10 @@ I'm a **Fullstack Java Developer**, mainly focused on backend development with S
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 GitHub Contributions
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Yash2462&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash2462&theme=tokyonight" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
