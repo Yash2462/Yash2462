@@ -21,47 +21,53 @@ I'm a **Fullstack Java Developer**, mainly focused on backend development with S
 
 ---
 
-## 📊 Quick Stats
+## 📊 About Me
 
-| Metric | Value |
-|--------|-------|
-| 💻 Languages | Java, Python, JavaScript |
-| 🏢 Focus | Backend Development & Microservices |
-| 🎯 Speciality | Spring Boot, System Design |
-| 📚 Learning | Kubernetes, AWS, Distributed Systems |
-
----
-
-## 🔥 GitHub Contributions
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash2462&theme=tokyonight" alt="GitHub Contribution Streak"/>
-</p>
+| Area | Details |
+|------|---------|
+| 💻 **Languages** | Java, Python, JavaScript, SQL |
+| 🏢 **Focus** | Backend Development & Microservices |
+| 🎯 **Specialization** | Spring Boot, REST APIs, System Design |
+| 🚀 **Technologies** | Docker, Kafka, Redis, MySQL, MongoDB |
+| 📚 **Currently Learning** | Kubernetes, AWS, Distributed Systems |
 
 ---
 
 ## 👨‍💻 Featured Projects
 
-- 📝 **Blog App** – A platform to share and manage blog posts.
-- 📋 **Project Management System** – Backend for managing projects and tasks.
-- 🪐 **Virtual Space Project** – Currently working on a virtual collaboration tool.
+- 📝 **Blog App** – A platform to share and manage blog posts with Spring Boot backend
+- 📋 **Project Management System** – Complete backend solution for managing projects and tasks
+- 🪐 **Virtual Space Project** – Building a virtual collaboration tool
 
 ---
 
-## 🎓 Currently Learning
+## 🎓 Skills & Expertise
 
-- 🔄 Kubernetes & Container Orchestration
-- 🏗️ Microservices Architecture & Patterns
-- ☁️ Cloud-native Development (AWS/GCP)
-- 📡 Advanced Distributed Systems
+**Backend Development**
+- Spring Boot & Spring Framework
+- Microservices Architecture
+- RESTful API Design
+- Database Design & Optimization
+
+**DevOps & Infrastructure**
+- Docker & Containerization
+- Message Queues (Kafka)
+- Caching (Redis)
+- Cloud Deployment
+
+**System Design**
+- Scalable Architecture
+- Distributed Systems
+- Performance Optimization
+- Database Management
 
 ---
 
-## 💡 Interests
+## 💡 Interests & Hobbies
 
 - 🔍 Backend architecture & distributed systems
 - 🏏 Playing cricket
-- 📚 Reading books
+- 📚 Reading technical books
 - 🎵 Music
 
 ---
@@ -76,6 +82,12 @@ I'm a **Fullstack Java Developer**, mainly focused on backend development with S
   <a href="mailto:patelyash2462@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
   </a>
+</p>
+
+---
+
+<p align="center">
+  <em>Open to collaborations on backend projects and system design challenges!</em>
 </p>
 
 <p align="center"><b>Thanks for visiting my profile! 🚀</b></p>
