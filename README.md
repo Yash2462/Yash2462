@@ -21,45 +21,59 @@ I'm a **Fullstack Java Developer**, mainly focused on backend development with S
 
 ---
 
-## 📊 About Me
+## 👨‍💻 About Me
 
-| Area | Details |
-|------|---------|
-| 💻 **Languages** | Java, Python, JavaScript, SQL |
-| 🏢 **Focus** | Backend Development & Microservices |
-| 🎯 **Specialization** | Spring Boot, REST APIs, System Design |
-| 🚀 **Technologies** | Docker, Kafka, Redis, MySQL, MongoDB |
-| 📚 **Currently Learning** | Kubernetes, AWS, Distributed Systems |
+**💻 Languages & Frameworks**
+- Java, Python, JavaScript, SQL
+- Spring Boot, Spring Framework, REST APIs
+
+**🏢 Specialization**
+- Backend Development & Microservices
+- System Design & Architecture
+- Distributed Systems
+
+**🚀 Technologies & Tools**
+- Docker, Kafka, Redis
+- MySQL, MongoDB
+- Cloud Deployment
+
+**📚 Currently Learning**
+- Kubernetes & Container Orchestration
+- AWS & Cloud-native Development
+- Advanced System Design Patterns
 
 ---
 
 ## 👨‍💻 Featured Projects
 
-- 📝 **Blog App** – A platform to share and manage blog posts with Spring Boot backend
-- 📋 **Project Management System** – Complete backend solution for managing projects and tasks
-- 🪐 **Virtual Space Project** – Building a virtual collaboration tool
+<details open>
+<summary><b>📝 Blog App</b></summary>
+
+A comprehensive platform to share and manage blog posts with Spring Boot backend, featuring user authentication and content management.
+</details>
+
+<details open>
+<summary><b>📋 Project Management System</b></summary>
+
+Complete backend solution for managing projects and tasks with REST APIs, real-time updates, and comprehensive task tracking.
+</details>
+
+<details open>
+<summary><b>🪐 Virtual Space Project</b></summary>
+
+Building a virtual collaboration tool for seamless team communication and project coordination.
+</details>
 
 ---
 
-## 🎓 Skills & Expertise
+## 🎯 Core Competencies
 
-**Backend Development**
-- Spring Boot & Spring Framework
-- Microservices Architecture
-- RESTful API Design
-- Database Design & Optimization
-
-**DevOps & Infrastructure**
-- Docker & Containerization
-- Message Queues (Kafka)
-- Caching (Redis)
-- Cloud Deployment
-
-**System Design**
-- Scalable Architecture
-- Distributed Systems
-- Performance Optimization
-- Database Management
+| Category | Skills |
+|----------|--------|
+| **Backend** | Spring Boot, Microservices, REST APIs, System Design |
+| **Databases** | MySQL, MongoDB, Redis, Query Optimization |
+| **DevOps** | Docker, Kafka, CI/CD, Cloud Deployment |
+| **Soft Skills** | Problem Solving, Architecture Design, Code Review |
 
 ---
 
