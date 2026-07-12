@@ -1,168 +1,236 @@
-# 👋 Hi, I'm Yash
+# <div align="center">
 
-> 🚀 Fullstack Java Developer | Backend Specialist | System Design Enthusiast
+# 👋 Hi, I'm Yash Patel
 
-**Passionate about building scalable systems and exploring modern backend architectures. Currently diving deep into microservices, distributed systems, and cloud-native development.**
+### 🚀 Full Stack Java Developer | Backend Engineer | System Design Enthusiast
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Developer;Spring+Boot+Developer;Microservices+Enthusiast;Distributed+Systems+Learner;Always+Learning+Something+New!" />
 
-## 📈 Quick Stats
-
-```
-⭐ Languages     │ Java, Python, JavaScript, SQL
-🏗️  Architecture  │ Microservices, REST APIs, Distributed Systems
-🛠️  Framework     │ Spring Boot, Spring Framework
-💾 Databases    │ MySQL, MongoDB, Redis
-🐳 DevOps       │ Docker, Kafka, CI/CD
-☁️  Cloud        │ AWS, GCP (Learning)
-```
+</div>
 
 ---
 
-## 🚀 Tech Stack
+## 💫 About Me
 
-### Languages & Frameworks
+I'm a passionate backend developer who enjoys building scalable, secure, and high-performance applications.
+
+I love solving complex backend problems using **Java**, **Spring Boot**, **Microservices**, and modern cloud technologies.
+
+Currently focusing on:
+
+- 🚀 Microservices Architecture
+- ☁️ Cloud Native Development
+- 🐳 Kubernetes & Docker
+- 📡 Distributed Systems
+- ⚡ High Performance Backend APIs
+- 🏗️ System Design
+
+---
+
+# ⚡ Tech Stack
+
+## 👨‍💻 Languages
+
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
 </p>
 
-### Databases & Caching
+## 🚀 Backend
+
 <p>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+<img src="https://skillicons.dev/icons?i=spring,maven,gradle" />
 </p>
 
-### DevOps & Tools
+## 💾 Databases
+
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" alt="Kafka"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
+</p>
+
+## ⚙️ DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman" />
+</p>
+
+## ☁️ Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp" />
 </p>
 
 ---
 
-## 💼 Featured Projects
+# 📊 GitHub Stats
 
-### 📝 Blog App
-**A full-featured blogging platform built with Spring Boot**
-- 🔐 User authentication & authorization
-- 📰 Content management system
-- 💬 Comment system with nested replies
-- 🏷️ Tags and categories
-- 🔍 Full-text search functionality
+<div align="center">
 
-### 📋 Project Management System
-**Enterprise-grade backend for project and task management**
-- 👥 Team collaboration features
-- 📊 Real-time task tracking
-- 📈 Project analytics
-- 🔔 Notification system
-- ⚡ RESTful APIs with comprehensive documentation
+![](https://github-readme-stats.vercel.app/api?username=Yash2462&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-### 🪐 Virtual Space Project
-**Building a virtual collaboration tool**
-- 🌐 Real-time communication
-- 👤 User presence tracking
-- 💼 Virtual workspace management
-- 🔄 Seamless data synchronization
+![](https://github-readme-streak-stats.herokuapp.com/?user=Yash2462&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash2462&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-## 🎯 What I'm Currently Working On
+# 🚀 Featured Projects
 
-- 🔄 **Kubernetes & Container Orchestration** - Mastering K8s deployment strategies
-- 🏗️ **Microservices Architecture** - Designing scalable distributed systems
-- ☁️ **Cloud-Native Development** - AWS & GCP deep dive
-- 📡 **Advanced System Design** - Building highly available systems
+## 📝 Blog Application
 
----
+A production-ready blogging platform built using **Spring Boot**.
 
-## 💡 Key Strengths
+### Features
 
-| 🔧 Backend Development | 🏗️ System Design | 📊 Database Design |
-|:---:|:---:|:---:|
-| Spring Boot, REST APIs, Microservices | Scalability, Performance, Architecture Patterns | Schema Design, Query Optimization, Indexing |
-
-| 🚀 DevOps & Deployment | 🔍 Problem Solving | 📈 Performance Tuning |
-|:---:|:---:|:---:|
-| Docker, CI/CD, Cloud Platforms | Debugging, Root Cause Analysis, Algorithm Optimization | Caching Strategies, Database Optimization |
+- 🔐 JWT Authentication
+- 👤 Role Based Authorization
+- 📰 Blog Management
+- 💬 Nested Comments
+- 🏷️ Categories & Tags
+- 🔍 Search Functionality
+- 📄 Pagination & Sorting
+- 📂 File Upload Support
 
 ---
 
-## 🎓 Education & Learning
+## 📋 Project Management System
 
-- 📚 **Currently Learning**: Kubernetes, AWS Certified Solutions Architect path, Advanced Distributed Systems
-- 🧠 **Interested In**: System design interviews, Open source contributions, Tech blogging
-- 🏆 **Growth Mindset**: Always exploring new technologies and best practices
+Enterprise-grade project and task management backend.
 
----
+### Features
 
-## 🌟 Interests & Hobbies
-
-```
-🔍 Backend architecture & distributed systems
-🏏 Cricket enthusiast
-📚 Tech book reader
-🎵 Music lover
-💻 Open source explorer
-```
+- 👥 Team Collaboration
+- 📈 Project Analytics
+- 🔔 Notifications
+- 📅 Task Scheduling
+- 📊 Dashboard APIs
+- 🔐 Secure Authentication
+- ⚡ REST APIs
 
 ---
 
-## 📊 Development Focus Areas
+## 🌌 Virtual Space
 
-```
-High Priority:
-├─ 🎯 Microservices Architecture
-├─ 🔐 System Security & Authentication
-└─ 📈 Performance Optimization
+A collaborative virtual workspace.
 
-Medium Priority:
-├─ 🌐 Cloud Infrastructure (AWS/GCP)
-├─ 📦 Containerization & Orchestration
-└─ 🔄 CI/CD Pipeline Design
+### Features
 
-Learning Path:
-├─ Kubernetes Advanced Patterns
-├─ Distributed Transactions
-└─ Advanced Caching Strategies
+- 🌐 Real-Time Communication
+- 👥 Presence Tracking
+- 💼 Workspace Management
+- 🔄 Live Synchronization
+- 📡 Scalable Backend Architecture
+
+---
+
+# 🎯 Currently Learning
+
+```text
+☁️ AWS Cloud
+
+🐳 Kubernetes
+
+🏗️ Distributed Systems
+
+⚡ System Design
+
+📡 Apache Kafka
+
+🔄 CI/CD Pipelines
 ```
 
 ---
 
-## 🤝 Let's Connect!
+# 💼 Backend Expertise
+
+| Area | Skills |
+|------|---------|
+| 🚀 Backend | Spring Boot, REST APIs, Java |
+| 🏗 Architecture | Microservices, Distributed Systems |
+| 💾 Database | MySQL, MongoDB, Redis |
+| ⚡ Performance | Caching, Query Optimization |
+| 🔐 Security | JWT, Spring Security |
+| 🐳 DevOps | Docker, GitHub Actions |
+| ☁️ Cloud | AWS (Learning), GCP (Learning) |
+
+---
+
+# 🌱 Learning Roadmap
+
+```text
+Backend Mastery
+│
+├── Spring Boot
+├── Microservices
+├── Docker
+├── Kubernetes
+├── Kafka
+├── Redis
+├── AWS
+├── System Design
+└── Distributed Systems
+```
+
+---
+
+# 📈 Coding Activity
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/patel-yash-2a7a2128b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:patelyash2462@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Yash2462" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yash2462&theme=tokyonight)
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=Yash2462&theme=tokyonight&no-frame=true&column=4)
+
+</p>
+
+---
+
+# 💡 Interests
+
+- 🚀 Backend Engineering
+- 🏗 Software Architecture
+- 📡 Distributed Systems
+- ☁️ Cloud Computing
+- 💻 Open Source
+- 📚 Reading Tech Blogs
+- 🏏 Cricket
+- 🎵 Music
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="mailto:patelyash2462@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/patel-yash-2a7a2128b/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Yash2462">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
 ---
 
 <div align="center">
 
-### 💬 Open to Collaborations
-Interested in backend projects, system design challenges, and open source contributions!
+### ⭐ "Building scalable software one commit at a time."
 
-**Let's build something amazing together! 🚀**
+![](https://komarev.com/ghpvc/?username=Yash2462&style=for-the-badge&color=blue)
 
 </div>
-
----
-
-<p align="center">
-  <i>Last updated: 2024 | Actively maintaining & improving projects</i>
-</p>
